@@ -8,7 +8,7 @@ An open-source platform for toroidal propeller
 ## Update
 > The PlatToroidalPropv1.1 is update.
 > In version 1.1, the radial sampling method in the parameterization method has been updated to better represent the blade tip geometry information.
->The blade build by PlatToroidalPropv1.0
+>>The blade build by PlatToroidalPropv1.0
 > ![The blade build by PlatToroidalPropv1.0 ](./Image/Fig1.png)
 > >The blade build by PlatToroidalPropv1.1
 > ![The blade build by PlatToroidalPropv1.0 ](./Image/Fig2.png)
